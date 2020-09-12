@@ -1,0 +1,1 @@
+for /r %%i in (Debug,release,x64,) do rd /s /q "%%i"
